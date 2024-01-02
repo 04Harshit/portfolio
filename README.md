@@ -8,6 +8,7 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 - [Technologies Used](#technologies-used)
 - [Deployment](#deployment)
 - [Getting Started](#getting-started)
+- [ScreenShots](#ScreenShots)
 
 ## Introduction
 This portfolio is a representation of my journey and achievements in the field of web development. It highlights my projects and provides insights into my skills and interests.
@@ -33,3 +34,8 @@ To run this project locally, clone the repository and open the `index.html` file
 git clone https://github.com/04harshit/portfolio.git
 cd portfolio
 ```
+## ScreenShots
+![Screenshot 1](images/homepage.png)
+![Screenshot 2](images/about-page.png)
+![Screenshot 3](images/experience-page.png)
+![Screenshot 4](images/project-page.png)
