@@ -1,0 +1,54 @@
+# Node modules directory (if using npm or yarn)
+node_modules/
+
+# Build directory
+dist/
+build/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+*.orig
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+
+# Linux specific files
+*~
+
+# IDE specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Dependency directories (if using package managers)
+bower_components/
+jspm_packages/
+
+# Generated files
+*.min.js
+*.map
+
+# Ignoring env files for sensitive information
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignore the coverage directory used by testing frameworks
+coverage/
+
+# Ignore linting and cache files
+.eslintcache
+.stylelintcache
